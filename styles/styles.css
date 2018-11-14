@@ -302,5 +302,9 @@ footer p {
     .destinations .grid li.large {
         flex-basis: 100%;
     }
+    .packages .grid li {
+        flex-basis: 100%;
+        padding: 20px;
+    }
     
 }
