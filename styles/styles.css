@@ -298,5 +298,9 @@ footer p {
     .hero a.btn {
         padding: 15px 40px;
     }
+    .destinations .grid li.small,
+    .destinations .grid li.large {
+        flex-basis: 100%;
+    }
     
 }
